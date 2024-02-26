@@ -1,5 +1,6 @@
 data_description.txt
 train.csv
 M4_ClassificationTree.ipynb
+M3_LinearRegression.ipynb
 pokemon/
 pokemonData.csv
